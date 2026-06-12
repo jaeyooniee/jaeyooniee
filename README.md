@@ -13,6 +13,5 @@ I'm a 1st-year computer science and maths student at the University of Mancheste
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaeyooniee&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=jaeyooniee&icon=0&color=0)](https://visitcount.itsvg.in)
-
+![Profile Views](https://komarev.com/ghpvc/?username=jaeyooniee&color=blue)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

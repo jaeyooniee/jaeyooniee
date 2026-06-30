@@ -41,6 +41,8 @@
 
 I am a first-year Computer Science and Mathematics undergraduate at the **University of Manchester** with a focus on solving **Software program related problems** and studying **Quantitative finance**. My work spans systematic trading frameworks and full stack applications engineered for reliability and scale.
 
+Long story short, I graduated from Young dong High School in 2023 and studied Korean Medicine at KyungHee University from 2023-2024 and dropped out. I kept pursuing a career in tech field even though I went to a med school so I chose to follow my dream! After successfully finishing international foundation year (3A*, Top 10 in the Europe Region), I became a student at University of Manchester in 2025.  
+
 I approach problems with a **product engineering mindset**. My core strengths sit in **software engineering** (clean architecture, testing discipline, performance optimisation) and I am further planning to study **AI/ML** (statistical modelling, signal research, applied inference) and **full stack development** (end-to-end delivery from data layer to interface) in near future.
 
 > **Open To** &nbsp;·&nbsp; Software Engineering Internships &nbsp;·&nbsp; Quantitative Trader / Researcher Internships &nbsp;·&nbsp; Open Source Collaboration

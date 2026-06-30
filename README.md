@@ -184,10 +184,9 @@ The application integrated centralised authentication, implemented a moderated m
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaeyooniee&show_icons=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&bg_color=1a0033" alt="github-stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jaeyooniee&show_icons=true&hide_border=true&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&bg_color=1a0033" alt="github-stats" />
 <img height="180em" src="https://streak-stats.demolab.com?user=jaeyooniee&hide_border=true&background=1a0033&ring=7c3aed&fire=a78bfa&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=8b5cf6&currStreakNum=ffffff&sideNums=ffffff&dayLabels=8b5cf6&fontColor=ffffff" alt="streak-stats" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyooniee&layout=compact&hide_border=true&title_color=a78bfa&text_color=c4b5fd&bg_color=1a0033&langs_count=10" alt="top-languages" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jaeyooniee&layout=compact&hide_border=true&title_color=a78bfa&text_color=c4b5fd&bg_color=1a0033&langs_count=10" alt="top-languages" />
 
 </div>
 
@@ -197,11 +196,12 @@ The application integrated centralised authentication, implemented a moderated m
 <!--                       GITHUB TROPHIES SECTION                    -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## <img src="https://media.giphy.com/media/UWtBKjwXraE7e9raac/giphy.gif" width="28"> GitHub Trophies
+
+## 🏆 GitHub Summary
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jaeyooniee&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaeyooniee&theme=github_dark" />
 
 </div>
 
@@ -216,20 +216,6 @@ The application integrated centralised authentication, implemented a moderated m
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaeyooniee&bg_color=1a0033&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&hide_border=true" alt="activity-graph" />
-
-</div>
-
----
-
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!--                     CONTRIBUTION SNAKE SECTION                   -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-## <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="28"> Contribution Snake
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/jaeyooniee/jaeyooniee/output/github-contribution-grid-snake-dark.svg" alt="snake-animation" />
 
 </div>
 
